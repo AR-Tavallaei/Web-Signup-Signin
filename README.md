@@ -8,8 +8,8 @@ All pages are responsive and display well on all devices. Also it has animation 
 
 # ScreenShots
 
-<img src="media/signup.PNG"></img>
+<img src="./media/signup.PNG"></img>
 
-<img src="media/signin.PNG"></img>
+<img src="./media/signin.PNG"></img>
 
-<img src="media/welcome.PNG"></img>
+<img src="./media/welcome.PNG"></img>
